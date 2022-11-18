@@ -1,10 +1,32 @@
-import { Text } from '../components/Text'
-import { Container } from './styles'
+import {
+  Container,
+  CategoriesContainer,
+  MenuContainer,
+  Footer,
+  FooterContainer,
+} from './styles'
+import { Header } from '../components/Header'
+import { Menu } from '../components/Menu'
+import { Categories } from '../components/Categories'
 
 export function Main() {
   return (
-    <Container>
-      <Text>main renderizou</Text>
-    </Container>
+    <>
+      <Container>
+        <Header />
+
+        <CategoriesContainer>
+          <Categories />
+        </CategoriesContainer>
+
+        <MenuContainer>
+          <Menu />
+        </MenuContainer>
+      </Container>
+
+      <Footer>
+        <FooterContainer></FooterContainer>
+      </Footer>
+    </>
   )
 }
