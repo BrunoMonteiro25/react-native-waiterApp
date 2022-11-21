@@ -11,7 +11,7 @@ Nele é possível realizar pedidos que vão para o sistema web.
 
 Veja o Projeto Web: https://github.com/BrunoMonteiro25/react-waiterApp
 
-#### Tela incial
+#### Tela inicial
 
 ![tela-inicial](https://user-images.githubusercontent.com/98993736/203128750-f2998640-a713-4738-a9a1-3430143a96f2.png)
 
