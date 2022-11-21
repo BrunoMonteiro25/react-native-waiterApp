@@ -1,7 +1,7 @@
 # react-native-waiterApp
 React Native + TypeScript + Styled Components
 
-[Funcionalidades](#funcionalidades-checkered_flag) | [Tecnologias](#tecnologias-computer) 
+[Funcionalidades](#funcionalidades-checkered_flag) | [Tecnologias](#tecnologias-computer) | [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 ##
 
 ### Descrição do Projeto :star:
@@ -30,3 +30,43 @@ Veja o Projeto Web: https://github.com/BrunoMonteiro25/react-waiterApp
 ### Pedido Confirmado
 
 ![pedido-confirmado](https://user-images.githubusercontent.com/98993736/203142271-dc0f6ae0-49af-4b76-9feb-d7941cb136d1.png)
+
+
+### Funcionalidades :checkered_flag:
+
+- Listar todos os produtos que estão cadastrados na API
+- Filtrar produtos pela categoria
+- Criar novo pedido
+- Cancelar pedido
+- Carrinho de compras
+- Confirmar pedido
+
+### Tecnologias :computer:
+
+React Native, TypeScript, Styled Components
+
+### Como rodar a aplicação :arrow_forward:
+
+No terminal, clone o projeto: 
+
+```
+git clone https://github.com/BrunoMonteiro25/react-native-waiterApp.git
+```
+
+Entre na pasta do projeto:  
+
+```
+cd mobile
+```
+
+Instale as dependecias:
+
+```
+npm install
+```
+
+Execute a aplicação:
+
+```
+npm run android
+```
