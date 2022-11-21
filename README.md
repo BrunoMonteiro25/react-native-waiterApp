@@ -1,7 +1,7 @@
 # react-native-waiterApp
 React Native + TypeScript + Styled Components
 
-[Funcionalidades](#funcionalidades-checkered_flag) | [Tecnologias](#tecnologias-computer) | [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+[Funcionalidades](#funcionalidades-checkered_flag) | [Tecnologias](#tecnologias-computer) | [API](#api-mag) | [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 ##
 
 ### Descrição do Projeto :star:
@@ -45,6 +45,10 @@ Veja o Projeto Web: https://github.com/BrunoMonteiro25/react-waiterApp
 
 React Native, TypeScript, Styled Components
 
+### API :mag:
+
+Repositório da API utilizada na aplicação: https://github.com/BrunoMonteiro25/api-waiterApp
+
 ### Como rodar a aplicação :arrow_forward:
 
 No terminal, clone o projeto: 
@@ -59,7 +63,7 @@ Entre na pasta do projeto:
 cd mobile
 ```
 
-Instale as dependecias:
+Instale as dependências:
 
 ```
 npm install
