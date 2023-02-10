@@ -9,6 +9,7 @@ React Native + TypeScript + Styled Components
 Aplicativo (WaiterApp) para restaurantes, que desenvolvi durante o evento (O poder do Javascript) do canal do youtube (Mateus Silva). 
 Nele é possível realizar pedidos que vão para o sistema web.
 
+
 Veja o Sistema Web: https://github.com/BrunoMonteiro25/react-waiterApp
 
 #### Tela inicial
